@@ -5,7 +5,6 @@
 **\_recovery*
 *.upx
 *.rar
-*.exe
 *.log
 *.usr
 *.identcache
