@@ -1,0 +1,14 @@
+*.stat
+*.dcu
+*.ini
+**\_history*
+**\_recovery*
+*.upx
+*.rar
+*.exe
+*.log
+*.usr
+*.identcache
+*.local
+*.res
+*.html
